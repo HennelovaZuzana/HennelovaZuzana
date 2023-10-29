@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HennelovaZuzana
 - 🌱 I’m currently student of informatics at Pavol Jozef Safarik University in Slovakia.
-- 💞️ I’m willing to collaborate on projects requiring Java. I am also intrested in anything involving cybersecurity.
+- 💞️ I am intrested in anything involving cybersecurity.
 - 📫 How to reach me ... hennelova.zuzana@gmail.com
 
 <!---
